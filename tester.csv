@@ -1,0 +1,15 @@
+id,product,amount,price,unit,tax,invoiceid,bodyid,invoicestatusid,customername,currencycode,billdate,account_code,vat_deducation,vat_status
+4QZKqdn, Ciaran Aguilar + John Velasquez Lewis Bailey,12.0,10.415999999999999,kpl,24.0,W49KRV,xr5J,bw,Libero Mauris Corp.,EUR,2020-10-20 00:00:00.0,M5zP,100.0,09e2f
+nAPx9YZ, Claudia Gould,1.0,20.831999999999997,kpl,24.0,W49KRV,xr5J,bw,Libero Mauris Corp.,EUR,2020-10-20 00:00:00.0,M5zP,100.0,09e2f
+w7vZWbE, Lacota Shaw,1.0,12.647999999999998,kpl,24.0,W49KRV,xr5J,bw,Libero Mauris Corp.,EUR,2020-10-20 00:00:00.0,M5zP,100.0,09e2f
+pw8EZM8, -,1.0,0.0,kpl,24.0,W49KRV,xr5J,bw,Libero Mauris Corp.,EUR,2020-10-20 00:00:00.0,M5zP,100.0,09e2f
+qZ1pYGL, Cassandra Phelps Emerald Pratt Oscar Mccullough Nash Quinn Asher Mosley Ethan Melton Flavia Gordon,4.0,498.47999999999996,kpl,24.0,MkQY0a,xr5J,bw,Libero Mauris Corp.,EUR,2020-10-20 00:00:00.0,M5zP,100.0,09e2f
+LEW38lw, Mariam Lamb,1.0,7.4399999999999995,kpl,24.0,MkQY0a,xr5J,bw,Libero Mauris Corp.,EUR,2020-10-20 00:00:00.0,M5zP,100.0,09e2f
+xrknMJJ, -,1.0,0.0,kpl,24.0,MkQY0a,xr5J,bw,Libero Mauris Corp.,EUR,2020-10-20 00:00:00.0,M5zP,100.0,09e2f
+B7q6w1J, -,1.0,0.0,kpl,24.0,zJnB4l,xr5J,bw,Nec Tellus PC,EUR,2020-10-21 00:00:00.0,rEBK,100.0,09e2f
+DG7QdrN, Lareina Vance Ulric Smith Victoria Roy Rahim Huffman,33.0,27.3492036,m,24.0,zJnB4l,xr5J,bw,Nec Tellus PC,EUR,2020-10-21 00:00:00.0,rEBK,100.0,09e2f
+2qw5Kd6, Lareina Vance Ulric Smith Fulton Mccarty Russell Stephenson,396.0,26.099499599999998,m,24.0,zJnB4l,xr5J,bw,Nec Tellus PC,EUR,2020-10-21 00:00:00.0,rEBK,100.0,09e2f
+lK2xyAJ, Malcolm Colon Joelle Travis 9 mm,66.0,2.2022496,m,24.0,zJnB4l,xr5J,bw,Nec Tellus PC,EUR,2020-10-21 00:00:00.0,rEBK,100.0,09e2f
+bLlAv3k, Wyoming Long Carly Drake Joelle Travis 23 mm,66.0,2.6487348,m,24.0,zJnB4l,xr5J,bw,Nec Tellus PC,EUR,2020-10-21 00:00:00.0,rEBK,100.0,09e2f
+J3RrEDz, Lareina Vance Ulric Smith Rose Tyler 78 Alfonso Parks,33.0,23.2427364,m,24.0,zJnB4l,xr5J,bw,Nec Tellus PC,EUR,2020-10-21 00:00:00.0,rEBK,100.0,09e2f
+87wg9dM, Lareina Vance Ulric Smith Thomas Carter 38 mm Simon Bishop,66.0,20.668415999999997,m,24.0,zJnB4l,xr5J,bw,Nec Tellus PC,EUR,2020-10-21 00:00:00.0,rEBK,100.0,09e2f
