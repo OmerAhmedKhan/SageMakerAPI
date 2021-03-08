@@ -14,7 +14,6 @@ curl --location --request POST 'https://js8xssydii.execute-api.eu-west-1.amazona
 --data-raw '{
   "features": [
     {
-      "id": "4QZKqdn",
       "product": "Ciaran Aguilar + John Velasquez Lewis Bailey",
       "amount": 12,
       "price": 10.416,
